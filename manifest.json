@@ -1,0 +1,319 @@
+{
+  "volumes": [
+    {
+      "name": "כרך 1 — כנפי האופל",
+      "pages": [
+        "images/art-020.webp",
+        "images/art-058.webp",
+        "images/art-031.webp",
+        "images/art-006.webp",
+        "images/art-059.webp",
+        "images/art-042.webp",
+        "images/art-004.webp",
+        "images/art-060.webp",
+        "images/art-026.webp",
+        "images/art-064.webp",
+        "images/art-055.webp",
+        "images/art-047.webp",
+        "images/art-051.webp",
+        "images/art-056.webp",
+        "images/art-054.webp",
+        "images/art-062.webp"
+      ]
+    },
+    {
+      "name": "כרך 2 — סוד אקליפס",
+      "pages": [
+        "images/art-030.webp",
+        "images/art-021.webp",
+        "images/art-016.webp",
+        "images/art-037.webp",
+        "images/art-010.webp",
+        "images/art-032.webp",
+        "images/art-011.webp",
+        "images/art-063.webp",
+        "images/art-019.webp",
+        "images/art-022.webp",
+        "images/art-028.webp",
+        "images/art-005.webp",
+        "images/art-046.webp",
+        "images/art-043.webp",
+        "images/art-002.webp",
+        "images/art-044.webp",
+        "images/art-025.webp",
+        "images/art-038.webp",
+        "images/art-048.webp",
+        "images/art-041.webp",
+        "images/art-039.webp",
+        "images/art-045.webp",
+        "images/art-050.webp"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "images/art-001.webp",
+      "original": "1792229651041.png"
+    },
+    {
+      "src": "images/art-002.webp",
+      "original": "a_cinematic_dark_detailed_manga_comic_page_in_a.png"
+    },
+    {
+      "src": "images/art-003.webp",
+      "original": "a_cinematic_manga_comic_page_detailed_anime_style.png"
+    },
+    {
+      "src": "images/art-004.webp",
+      "original": "a_cinematic_manga_comic_page_in_a_dark_moody_det.png"
+    },
+    {
+      "src": "images/art-005.webp",
+      "original": "a_cinematic_manga_comic_page_in_detailed_anime_ill.png"
+    },
+    {
+      "src": "images/art-006.webp",
+      "original": "a_cinematic_manga_comic_page_in_realistic_anime_st.png"
+    },
+    {
+      "src": "images/art-007.webp",
+      "original": "a_colorful_cinematic_manga_comic_page_in_a_modern.png"
+    },
+    {
+      "src": "images/art-008.webp",
+      "original": "a_colorful_manga_comic_page_with_clean_panel_borde.png"
+    },
+    {
+      "src": "images/art-009.webp",
+      "original": "a_dark_moody_cinematic_manga_comic_page_layout_i.png"
+    },
+    {
+      "src": "images/art-010.webp",
+      "original": "a_detailed_cinematic_manga_comic_page_in_a_scienc.png"
+    },
+    {
+      "src": "images/art-011.webp",
+      "original": "a_detailed_cinematic_manga_comic_page_in_full_col.png"
+    },
+    {
+      "src": "images/art-012.webp",
+      "original": "a_detailed_comic_manga_page_in_a_hebrew_right_to_l.png"
+    },
+    {
+      "src": "images/art-013.webp",
+      "original": "a_detailed_comic_manga_page_in_hebrew_sequential.png"
+    },
+    {
+      "src": "images/art-014.webp",
+      "original": "a_detailed_comic_manga_style_full_page_scene_in_a.png"
+    },
+    {
+      "src": "images/art-015.webp",
+      "original": "a_detailed_comic_manga_style_multi_panel_page_cle.png"
+    },
+    {
+      "src": "images/art-016.webp",
+      "original": "a_detailed_comic_manga_style_multi_panel_page_ful.png"
+    },
+    {
+      "src": "images/art-017.webp",
+      "original": "a_detailed_comic_manga_style_multi_panel_page_in_a.png"
+    },
+    {
+      "src": "images/art-018.webp",
+      "original": "a_detailed_comic_manga_style_multi_panel_scene_in.png"
+    },
+    {
+      "src": "images/art-019.webp",
+      "original": "a_detailed_manga_anime_comic_page_dark_night_cin.png"
+    },
+    {
+      "src": "images/art-020.webp",
+      "original": "a_detailed_manga_anime_style_character_sheet_comic.png"
+    },
+    {
+      "src": "images/art-021.webp",
+      "original": "a_detailed_manga_comic_page_anime_style_full_col.png"
+    },
+    {
+      "src": "images/art-022.webp",
+      "original": "a_detailed_manga_comic_page_at_night_moody_cinem.png"
+    },
+    {
+      "src": "images/art-023.webp",
+      "original": "a_detailed_manga_comic_page_collage_high_contrast.png"
+    },
+    {
+      "src": "images/art-024.webp",
+      "original": "a_detailed_manga_comic_page_in_a_cinematic_anime.png"
+    },
+    {
+      "src": "images/art-025.webp",
+      "original": "a_detailed_manga_comic_page_in_a_dramatic_cinemat.png"
+    },
+    {
+      "src": "images/art-026.webp",
+      "original": "a_detailed_manga_comic_page_in_a_modern_anime_mang.png"
+    },
+    {
+      "src": "images/art-027.webp",
+      "original": "a_detailed_manga_comic_page_in_a_realistic_anime_m.png"
+    },
+    {
+      "src": "images/art-028.webp",
+      "original": "a_detailed_manga_comic_page_in_a_stylized_anime_ma.png"
+    },
+    {
+      "src": "images/art-029.webp",
+      "original": "a_detailed_manga_comic_page_in_anime_manga_style.png"
+    },
+    {
+      "src": "images/art-030.webp",
+      "original": "a_detailed_manga_comic_page_in_hebrew_anime_manga.png"
+    },
+    {
+      "src": "images/art-031.webp",
+      "original": "a_detailed_manga_comic_page_right_to_left_layout.png"
+    },
+    {
+      "src": "images/art-032.webp",
+      "original": "a_detailed_manga_comic_page_scene_cinematic_anime.png"
+    },
+    {
+      "src": "images/art-033.webp",
+      "original": "a_detailed_manga_comic_page_scene_with_warm_cinema.png"
+    },
+    {
+      "src": "images/art-034.webp",
+      "original": "a_detailed_manga_comic_style_illustrated_page_show.png"
+    },
+    {
+      "src": "images/art-035.webp",
+      "original": "a_detailed_manga_comic_style_page_in_hebrew_warm.png"
+    },
+    {
+      "src": "images/art-036.webp",
+      "original": "a_detailed_multi_panel_manga_comic_page_anime_sty.png"
+    },
+    {
+      "src": "images/art-037.webp",
+      "original": "a_detailed_multi_panel_manga_comic_page_scene_ani.png"
+    },
+    {
+      "src": "images/art-038.webp",
+      "original": "a_dramatic_comic_manga_style_full_page_layout_with.png"
+    },
+    {
+      "src": "images/art-039.webp",
+      "original": "a_dramatic_dark_manga_comic_page_with_multiple_pan.png"
+    },
+    {
+      "src": "images/art-040.webp",
+      "original": "a_dramatic_manga_anime_comic_page_in_a_dynamic_ci.png"
+    },
+    {
+      "src": "images/art-041.webp",
+      "original": "a_dramatic_manga_anime_comic_page_in_full_color_h.png"
+    },
+    {
+      "src": "images/art-042.webp",
+      "original": "a_dramatic_manga_comic_page_dark_cinematic_panels.png"
+    },
+    {
+      "src": "images/art-043.webp",
+      "original": "a_dramatic_manga_comic_page_in_anime_style_cinema.png"
+    },
+    {
+      "src": "images/art-044.webp",
+      "original": "a_dramatic_manga_comic_page_layout_at_night_cinem.png"
+    },
+    {
+      "src": "images/art-045.webp",
+      "original": "a_dramatic_manga_comic_page_scene_in_a_gritty_hig.png"
+    },
+    {
+      "src": "images/art-046.webp",
+      "original": "a_dramatic_manga_comic_style_page_in_dark_moody.png"
+    },
+    {
+      "src": "images/art-047.webp",
+      "original": "a_dynamic_action_manga_comic_page_in_full_color_d.png"
+    },
+    {
+      "src": "images/art-048.webp",
+      "original": "a_dynamic_manga_comic_page_in_dramatic_anime_manga.png"
+    },
+    {
+      "src": "images/art-049.webp",
+      "original": "a_full_color_manga_comic_page_at_night_multiple_p.png"
+    },
+    {
+      "src": "images/art-050.webp",
+      "original": "a_full_color_manga_comic_page_in_a_cinematic_comic.png"
+    },
+    {
+      "src": "images/art-051.webp",
+      "original": "a_full_comic_page_in_manga_anime_style_cinematic.png"
+    },
+    {
+      "src": "images/art-052.webp",
+      "original": "a_full_page_colored_manga_comic_layout_with_multip.png"
+    },
+    {
+      "src": "images/art-053.webp",
+      "original": "a_full_page_comic_manga_cover_style_page_panel_la.png"
+    },
+    {
+      "src": "images/art-054.webp",
+      "original": "a_full_page_comic_manga_style_illustration_in_a_re.png"
+    },
+    {
+      "src": "images/art-055.webp",
+      "original": "a_full_page_manga_comic_style_illustration_clean.png"
+    },
+    {
+      "src": "images/art-056.webp",
+      "original": "a_full_page_manga_comic_style_layout_with_multiple.png"
+    },
+    {
+      "src": "images/art-057.webp",
+      "original": "a_full_page_manga_comic_style_multi_panel_epilogue.png"
+    },
+    {
+      "src": "images/art-058.webp",
+      "original": "a_full_page_manga_comic_style_scene_cinematic_ani.png"
+    },
+    {
+      "src": "images/art-059.webp",
+      "original": "a_full_page_manga_comic_style_scene_clean_panels.png"
+    },
+    {
+      "src": "images/art-060.webp",
+      "original": "a_full_page_manga_comic_style_scene_in_a_moody_re.png"
+    },
+    {
+      "src": "images/art-061.webp",
+      "original": "a_full_page_manga_comic_style_sequential_illustrat.png"
+    },
+    {
+      "src": "images/art-062.webp",
+      "original": "a_multi_panel_manga_comic_page_in_a_clean_colored.png"
+    },
+    {
+      "src": "images/art-063.webp",
+      "original": "a_multi_panel_manga_comic_page_in_a_dramatic_cine.png"
+    },
+    {
+      "src": "images/art-064.webp",
+      "original": "a_polished_manga_comic_page_in_a_modern_anime_styl.png"
+    },
+    {
+      "src": "images/art-065.webp",
+      "original": "generated-image.png"
+    },
+    {
+      "src": "images/art-066.webp",
+      "original": "image.png"
+    }
+  ]
+}
